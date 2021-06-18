@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  alpine:
+  - created: 2016-11-18T15:05:51.077842565-07:00
+    description: Deploy a basic Alpine Linux pod
+    digest: 515c58e5f79d8b2913a10cb400ebb6fa9c77fe813287afbacf1a0b897cd78727
+    name: oneapp-istio
+    sources:
+    - https://github.com/maethee/oneapp-istio
+    urls:
+    - alpine-0.0.1.tgz
+    version: 0.0.1
+generated: 2016-11-18T15:05:51.077257234-07:00
