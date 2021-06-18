@@ -1,0 +1,12 @@
+apiVersion: v1
+name: oneapp-istio
+version: 0.0.1
+description: The template to manage behavior of istio on Oneapp Openshift Service Mesh.
+keywords:
+  - Openshift
+  - Istio
+  - Service Mesh
+sources:
+  - https://github.com/maethee/oneapp-istio.git
+icon: A URL to an SVG or PNG image to be used as an icon (optional).
+appVersion: 0.0.1

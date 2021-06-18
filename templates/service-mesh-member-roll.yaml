@@ -1,0 +1,11 @@
+apiVersion: maistra.io/v1
+kind: ServiceMeshMemberRoll
+metadata:
+  name: default
+  namespace: istio-system
+spec:
+  members:
+    - sit1-oneapp
+    - dev1-oneapp
+    - dev2-oneapp
+    - uat1-oneapp
