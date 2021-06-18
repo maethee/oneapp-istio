@@ -8,6 +8,6 @@ entries:
     sources:
     - https://github.com/maethee/oneapp-istio
     urls:
-    - alpine-0.0.1.tgz
+    - oneapp-istio-0.0.1.tgz
     version: 0.0.1
 generated: 2016-11-18T15:05:51.077257234-07:00
